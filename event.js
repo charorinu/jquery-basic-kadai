@@ -1,4 +1,4 @@
-$(window).on('load', () => {
+$(document).ready(() => {
     console.log('loadイベントが発生しました');
 });
 
